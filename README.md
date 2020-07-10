@@ -10,6 +10,6 @@ pip uninstall flask-appbuilder
 
 ```shell
 # Clone this repo
-cd Flask-AppBuilder/Flask-AppBuilder
+cd Flask-AppBuilder
 python setup.py install
 ```
