@@ -7,8 +7,9 @@ pip uninstall flask-appbuilder
 ```
 
 - **Step2**: Re-install flask-appbuilder
-Clone this repo
+
 ```shell
+# Clone this repo
 cd Flask-AppBuilder/Flask-AppBuilder
 python setup.py install
 ```
